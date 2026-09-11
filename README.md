@@ -52,7 +52,7 @@ While creating this project, I practised:
 
 ## Screenshot
 
-![Application Screenshot](screenshots/app-screenshot.png)
+![Application Screenshot](C:\Users\Chadlei\Desktop\Portforlio)
 
 ## Author
 
