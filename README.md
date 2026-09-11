@@ -50,6 +50,10 @@ While creating this project, I practised:
 - Rebuild the application with a graphical interface
 - Replace JSON storage with a database
 
+## Screenshot
+
+![Application Screenshot](screenshots/app-screenshot.png)
+
 ## Author
 
 Chadlei
